@@ -2,7 +2,7 @@
     "name": "juanchimienti/php-style",
     "description": "Shared PHP style rules for PHP-CS-Fixer",
     "require": {
-        "friendsofphp/php-cs-fixer": "3.8"
+        "friendsofphp/php-cs-fixer": "3.16"
     },
     "autoload": {
         "files": [
